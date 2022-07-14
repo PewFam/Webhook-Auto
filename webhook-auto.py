@@ -1,4 +1,4 @@
-
+#Discord -> LiBeRtY#9024
 from time import time
 import os
 import sys
